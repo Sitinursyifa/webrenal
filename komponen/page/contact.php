@@ -27,8 +27,8 @@
                                         </div>
                                         <div class="each-info">
                                             <h4>Email</h4>
-                                            <a href="mailto:yourmail@email.com">renaldimfauzi3@email.com</a><br>
-                                            <a href="mailto:yourmail@email.com">renaldimuhammadf3@email.com</a>
+                                            <a href="mailto:yourmail@email.com">nrsyifa62@email.com</a><br>
+                                            <a href="mailto:yourmail@email.com">sn1117402@email.com</a>
                                         </div>
                                     </div>
                                 </div>
@@ -39,8 +39,8 @@
                                         </div>
                                         <div class="each-info">
                                             <h4>Phone</h4>
-                                            <a href="callto:(880)-8976-987">087755151881</a><br>
-                                            <a href="callto:(880)-8976-987">081210264164</a>
+                                            <a href="callto:(880)-8976-987">083815613443</a><br>
+                                            <a href="callto:(880)-8976-987">083833423773</a>
                                         </div>
                                     </div>
                                 </div>

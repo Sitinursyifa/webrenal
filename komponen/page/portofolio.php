@@ -8,17 +8,13 @@
                         <div class="portfolio-nav col-sm-12" id="filter-button">
                             <ul>
                                 <li data-filter="*" class="current wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.1s"> <span>All Categories</span></li>
-                                <li data-filter=".user-interface" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s"><span>Web Design</span></li>
-                                <li data-filter=".branding" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s"><span>Branding</span></li>
-                                <li data-filter=".mockup" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s"><span>Mockups</span></li>
-                                <li data-filter=".ui" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.5s"><span>Photography</span></li>
-                            </ul>
+                               </ul>
                         </div>
                         <div class="mh-project-gallery col-sm-12 wow fadeInUp" id="project-gallery" data-wow-duration="0.8s" data-wow-delay="0.5s">
                             <div class="portfolioContainer row">
                                 <div class="grid-item col-md-4 col-sm-6 col-xs-12 user-interface">
                                     <figure>
-                                        <img src="assets/images/portfolio/g1.jpg" alt="img04">
+                                        <img src="assets/images/portfolio/WhatsApp Image 2023-12-11 at 12.04.42(1).jpeg" alt="">
                                         <figcaption class="fig-caption">
                                             <i class="fa fa-search"></i>
                                             <h5 class="title">Creative Design</h5>
@@ -29,7 +25,7 @@
                                 </div>
                                 <div class="grid-item col-md-4 col-sm-6 col-xs-12 ui mockup">
                                     <figure>
-                                        <img src="assets/images/portfolio/g2.png" alt="img04">
+                                        <img src="assets/images/portfolio/WhatsApp Image 2023-12-11 at 12.04.42.jpeg" alt="">
                                         <figcaption class="fig-caption">
                                             <i class="fa fa-search"></i>
                                             <h5 class="title">Creative Design</h5>
@@ -40,78 +36,78 @@
                                 </div>
                                 <div class="grid-item col-md-4 col-sm-6 col-xs-12 user-interface">
                                     <figure>
-                                        <img src="assets/images/portfolio/g3.png" alt="img04">
+                                        <img src="assets/images/portfolio/WhatsApp Image 2023-12-11 at 12.06.06.jpeg" alt="">
                                         <figcaption class="fig-caption">
                                             <i class="fa fa-search"></i>
                                             <h5 class="title">Creative Design</h5>
                                             <span class="sub-title">Photograpy</span>
-                                            <a href="assets/images/portfolio/g3.png" data-fancybox data-src="#mh"></a>
+                                            <a href="assets/images/portfolio/" data-fancybox data-src="#mh"></a>
                                         </figcaption>
                                     </figure>
                                 </div>
                                 <div class="grid-item col-md-4 col-sm-6 col-xs-12 branding">
                                     <figure>
-                                        <img src="assets/images/portfolio/g5.png" alt="img04">
+                                        <img src="assets/images/portfolio/" alt="">
                                         <figcaption class="fig-caption">
                                             <i class="fa fa-search"></i>
                                             <h5 class="title">Creative Design</h5>
                                             <span class="sub-title">Photograpy</span>
-                                            <a href="assets/images/portfolio/g5.png" data-fancybox data-src="#mh"></a>
+                                            <a href="assets/images/portfolio/" data-fancybox data-src="#mh"></a>
                                         </figcaption>
                                     </figure>
                                 </div>
                                 <div class="grid-item col-md-4 col-sm-6 col-xs-12 user-interface">
                                     <figure>
-                                        <img src="assets/images/portfolio/g4.png" alt="img04">
+                                        <img src="assets/images/portfolio/" alt="">
                                         <figcaption class="fig-caption">
                                             <i class="fa fa-search"></i>
                                             <h5 class="title">Creative Design</h5>
                                             <span class="sub-title">Photograpy</span>
-                                            <a href="assets/images/portfolio/g4.png" data-fancybox data-src="#mh"></a>
+                                            <a href="assets/images/portfolio/" data-fancybox data-src="#mh"></a>
                                         </figcaption>
                                     </figure>
                                 </div>
                                 <div class="grid-item col-md-4 col-sm-6 col-xs-12 branding">
                                     <figure>
-                                        <img src="assets/images/portfolio/g6.png" alt="img04">
+                                        <img src="assets/images/portfolio/" alt="">
                                         <figcaption class="fig-caption">
                                             <i class="fa fa-search"></i>
                                             <h5 class="title">Creative Design</h5>
                                             <span class="sub-title">Photograpy</span>
-                                            <a href="assets/images/portfolio/g6.png" data-fancybox data-src="#mh"></a>
+                                            <a href="assets/images/portfolio/" data-fancybox data-src="#mh"></a>
                                         </figcaption>
                                     </figure>
                                 </div>
                                 <div class="grid-item col-md-4 col-sm-6 col-xs-12 branding">
                                     <figure>
-                                        <img src="assets/images/portfolio/g8.png" alt="img04">
+                                        <img src="assets/images/portfolio/" alt="">
                                         <figcaption class="fig-caption">
                                             <i class="fa fa-search"></i>
                                             <h5 class="title">Creative Design</h5>
                                             <span class="sub-title">Photograpy</span>
-                                            <a href="assets/images/portfolio/g8.png" data-fancybox data-src="#mh"></a>
+                                            <a href="assets/images/portfolio/" data-fancybox data-src="#mh"></a>
                                         </figcaption>
                                     </figure>
                                 </div>
                                 <div class="grid-item col-md-4 col-sm-6 col-xs-12 ui">
                                     <figure>
-                                        <img src="assets/images/portfolio/g9.png" alt="img04">
+                                        <img src="assets/images/portfolio/" alt="">
                                         <figcaption class="fig-caption">
                                             <i class="fa fa-search"></i>
                                             <h5 class="title">Creative Design</h5>
                                             <span class="sub-title">Photograpy</span>
-                                            <a href="assets/images/portfolio/g9.png" data-fancybox data-src="#mh"></a>
+                                            <a href="assets/images/portfolio/" data-fancybox data-src="#mh"></a>
                                         </figcaption>
                                     </figure>
                                 </div>
                                 <div class="grid-item col-md-4 col-sm-6 col-xs-12 branding">
                                     <figure>
-                                        <img src="assets/images/portfolio/g7.jpg" alt="img04">
+                                        <img src="assets/images/portfolio/" alt="">
                                         <figcaption class="fig-caption">
                                             <i class="fa fa-search"></i>
                                             <h5 class="title">Creative Design</h5>
                                             <span class="sub-title">Photograpy</span>
-                                            <a href="assets/images/portfolio/g7.jpg" data-fancybox="gallery"></a>
+                                            <a href="assets/images/portfolio/" data-fancybox=""></a>
                                         </figcaption>
                                     </figure>
                                 </div>

@@ -594,9 +594,9 @@ button {
   font-weight: bold; }
 
 .white-vertion.black-bg {
-  background-color: #fff; }
+  background-color: rgba(100, 86, 97, 0.945); }
 .white-vertion .section-loader {
-  background: #fff; }
+  background: rgba(117, 99, 116, 0.651); }
 .white-vertion ::placeholder {
   color: #000; }
 .white-vertion a {

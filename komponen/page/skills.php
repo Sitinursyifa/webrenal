@@ -23,8 +23,8 @@
                                     <div class="candidatos">
                                         <div class="parcial">
                                             <div class="info">
-                                                <div class="nome">design</div>
-                                                <div class="percentagem-num">50%</div>
+                                                <div class="nome">marketing</div>
+                                                <div class="percentagem-num">85%</div>
                                             </div>
                                             <div class="progressBar">
                                                 <div class="percentagem" style="width: 46%;"></div>
@@ -34,8 +34,8 @@
                                     <div class="candidatos">
                                         <div class="parcial">
                                             <div class="info">
-                                                <div class="nome">css</div>
-                                                <div class="percentagem-num">38%</div>
+                                                <div class="nome">php</div>
+                                                <div class="percentagem-num">20%</div>
                                             </div>
                                             <div class="progressBar">
                                                 <div class="percentagem" style="width: 38%;"></div>
@@ -45,7 +45,7 @@
                                     <div class="candidatos">
                                         <div class="parcial">
                                             <div class="info">
-                                                <div class="nome">php</div>
+                                                <div class="nome">css</div>
                                                 <div class="percentagem-num">30%</div>
                                             </div>
                                             <div class="progressBar">
@@ -56,8 +56,8 @@
                                     <div class="candidatos">
                                         <div class="parcial">
                                             <div class="info">
-                                                <div class="nome">html</div>
-                                                <div class="percentagem-num">20%</div>
+                                                <div class="nome">design</div>
+                                                <div class="percentagem-num">80%</div>
                                             </div>
                                             <div class="progressBar">
                                                 <div class="percentagem" style="width: 17%;"></div>
@@ -77,15 +77,15 @@
                                     <div class="pr-skill-name">Communication</div>
                                 </li>
                                 <li>
-                                    <div class="mh-progress mh-progress-circle" data-progress="80"></div> 
+                                    <div class="mh-progress mh-progress-circle" data-progress="95"></div> 
                                     <div class="pr-skill-name">Team Work</div>
                                 </li>
                                 <li>
-                                    <div class="mh-progress mh-progress-circle" data-progress="86"></div>
+                                    <div class="mh-progress mh-progress-circle" data-progress="80"></div>
                                     <div class="pr-skill-name">Project Management</div>
                                 </li> 
                                 <li>
-                                    <div class="mh-progress mh-progress-circle" data-progress="85"></div>
+                                    <div class="mh-progress mh-progress-circle" data-progress="80"></div>
                                     <div class="pr-skill-name">Creativity</div>
                                 </li>
                             </ul>
