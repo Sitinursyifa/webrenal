@@ -87,6 +87,9 @@
                                 <li class="nav-item">
                                    <a class="nav-link" href="?page=contact">Contact</a>
                                 </li>
+                                <li class="nav-item">
+                                   <a class="nav-link" href="?page=timeline">timeline</a>
+                                </li>
                             </ul>
                         </div>
                     </nav>
